@@ -44,5 +44,3 @@ class Shoe
   end
 end
 
-shoe = Shoe.new("Some brand")
-shoe.cobble
